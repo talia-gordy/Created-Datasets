@@ -2,7 +2,7 @@
 - The public repository, "Created-Datasets" is a repository containing my personal created datasets for use to train ML models.
 
 ## Data source
-WEB SCRAPING & API's
+- WEB SCRAPING & API's
 **Note:** These datasets are under my ownership. Please see the licensing details.
 
 --------------------------------------------------------------------------------------------------------------------------
