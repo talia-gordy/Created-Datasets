@@ -1,5 +1,5 @@
 ## Overview
-- The public repository, "Created-Datasets" is a repository containing my personal created datasets for use to train ML models.
+- The public repository, "Created-Datasets" is a repository containing my personaly created datasets for use to train ML models.
 
 ## Data source
 - WEB SCRAPING & API's
