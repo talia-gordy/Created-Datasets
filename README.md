@@ -7,7 +7,7 @@ WEB SCRAPING & API's
 
 --------------------------------------------------------------------------------------------------------------------------
 
-## HOW TO LOAD A DATASET?
+## How to load dataset?
 
 1. Select the data file you want to use, and click "raw" to go to the raw data file.
 2. Copy the link once you open the raw file.
